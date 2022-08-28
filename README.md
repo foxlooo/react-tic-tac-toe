@@ -1,6 +1,7 @@
 # react-tic-tac-toe
 
 React.js Tic Tac Toe Tutorial with all improvements completed.
+https://reactjs.org/tutorial/tutorial.html
 
 # Getting Started with Create React App
 
